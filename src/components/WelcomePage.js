@@ -12,7 +12,7 @@ export default function WelcomePage() {
           src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
           alt="rick"
         />
-        <Link className="main-buttons" to={'/characters'}>Characters</Link>
+        <Link className="main-buttons" to={'/characters'}>Find Characters</Link>
       </header>
     </section>
   );
