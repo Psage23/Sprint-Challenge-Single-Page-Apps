@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client side routing loads faster because it doesn't reload the whole page. This helps with a better user experience by making the page seem to be a faster load speed. 
 
 ## Project Set Up
 
